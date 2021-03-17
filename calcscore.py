@@ -1,3 +1,4 @@
-def square(n: float) -> float:
-    """Square a number."""
-    return n**2
+def round_score(round):
+    if round < 1 or round > 6:
+        raise ValueError("Round valid range is 1-6")
+    return 0
