@@ -1,5 +1,9 @@
 # bracket-scoring
 
+# developing notes
+
+Run tests continuously:  ```find . -name '*.py' | entr tox```
+
 # references
 
 ## [New York Times 2015 methodology](https://www.nytimes.com/2015/03/16/upshot/heres-how-our-ncaa-bracket-works.html)
